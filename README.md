@@ -11,13 +11,15 @@ I enjoy working with data to uncover insights and support **data-driven decision
 ## 🛠 Tools & Technologies
 
 🐍 Python  
-📊 Pandas / NumPy  
-📈 Matplotlib / Seaborn  
-🐬 MySQL
-🍃 MongoDB
+📊 Pandas  
+🔢 NumPy  
+📈 Matplotlib  
+📊 Seaborn  
+🐬 MySQL  
+🍃 MongoDB  
 📊 Power BI  
 📈 Tableau  
-📋 Google Sheets  
+📋 Google Sheets
 
 ---
 
