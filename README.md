@@ -13,12 +13,12 @@ I enjoy working with data to uncover insights and support **data-driven decision
 🐍 Python  
 📊 Pandas / NumPy  
 📈 Matplotlib / Seaborn  
-📉 Time Series Forecasting (ARIMA)  
 🐬 MySQL
 🍃 MongoDB
 📊 Power BI  
 📈 Tableau  
 📋 Google Sheets  
+
 ---
 
 ## 📊 Featured Projects
