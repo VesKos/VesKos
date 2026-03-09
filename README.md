@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Vesna 👋
 
-<!--
-**VesKos/VesKos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst based in Germany  
 
-Here are some ideas to get you started:
+I am developing skills in **data analysis, data visualization, and business intelligence** using tools such as **Python, Power BI, Tableau, MySQL, MongoDB**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to uncover insights and support **data-driven decision making**.
+
+---
+
+## 🛠 Tools & Technologies
+
+🐍 Python  
+📊 Pandas / NumPy  
+📈 Matplotlib / Seaborn  
+📉 Time Series Forecasting (ARIMA)  
+🐬 MySQL
+🍃 MongoDB
+📊 Power BI  
+📈 Tableau  
+📋 Google Sheets  
+---
+
+## 📊 Featured Projects
+
+### 📈 Revenue Forecast Using ARIMA
+Time series forecasting project analyzing e-commerce revenue trends.
+
+Tools: Python, Statsmodels
+
+---
+
+### 📊 Online School CRM Analysis
+Analysis of CRM data to evaluate lead sources, deal conversion, and sales performance.
+
+Tools: Python, Pandas, Matplotlib
+
+---
+
+### 📊 Power BI Dashboard – Online School Analysis
+Interactive business dashboard analyzing sales performance and key metrics.
+
+Tools: Power BI
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/vesna-kostrewa
