@@ -1,6 +1,7 @@
-# Hi, I'm Vesna 👋
+# Vesna Kostrewa  
+### Business Analyst | Data Analytics | BI Reporting
 
-📊 Aspiring Data Analyst based in Germany  
+I combine business/project experience with data analytics, BI reporting and process analysis.
 
 I am developing skills in **data analysis, data visualization, and business intelligence** using tools such as **Python, Power BI, Tableau, MySQL, MongoDB**.
 
